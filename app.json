@@ -5,7 +5,7 @@
     "telegram",
     "userbot"
   ],
-  "repository": "https://github.com/MoveAngel/One4uBot",
+  "repository": "https://github.com/Kepis2003/sempakk",
   "stack": "container",
   "env": {
     "API_KEY": {
