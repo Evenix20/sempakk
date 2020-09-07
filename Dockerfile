@@ -36,8 +36,8 @@ RUN pip3 install heroku3 telethon gitpython && rm -r /root/.cache
 #
 # Clone repo and prepare working directory
 #
-RUN git clone -b fallback https://github.com/Fahmi2003/sempakk.git /home/sempakk/
-WORKDIR /home/sempakk/
+RUN git clone -b fallback https://github.com/Evenix20 /sempakk /home/One4uBot /
+WORKDIR /home/One4uBot /
 
 #
 # Install requirements

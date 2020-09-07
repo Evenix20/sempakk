@@ -5,7 +5,7 @@
     "telegram",
     "userbot"
   ],
-  "repository": "https://github.com/MoveAngel/One4uBot",
+  "repository": "https://github.com/Evenix20/sempakk",
   "stack": "container",
   "env": {
     "API_KEY": {
@@ -42,7 +42,7 @@
     "UPSTREAM_REPO_URL": {
       "description": "Your forked repo.",
       "value": "https://github.com/MoveAngel/One4uBot",
-      "required": true
+      "required": false
     },
     "MAIN_REPO_BRANCH": {
       "description": "Your main branch repo.",
